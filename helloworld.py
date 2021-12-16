@@ -1,6 +1,7 @@
 from add.py import printfunc
-
-print('hello world')
+print('ahahaha pizda tvoemu merzhu ahahaha')
+print('hyi tebe a ne merzh')
+print('s luboviu')
 
 printfunc()
 
